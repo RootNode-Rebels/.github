@@ -57,7 +57,7 @@ We actively develop open-source utilities and private enterprise applications. W
 
 [![Email](https://img.shields.io/badge/Email-contact%40rootnode--rebels.cc.cd-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rootnode-rebels.cc.cd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Lead_Engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/RootNode-Rebels)
-[![Portfolio](https://img.shields.io/badge/Portfolio-adhi.is--a.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adhi.is-a.dev)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rootnode-rebels.cc.cd)
 
 <br>
 
