@@ -56,7 +56,7 @@ We don't just write code; we build production systems. Here are our top deployme
 We actively develop open-source utilities and private enterprise applications. We welcome pull requests and technical discussions from engineers worldwide.
 
 [![Email](https://img.shields.io/badge/Email-contact%40rootnode--rebels.cc.cd-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rootnode-rebels.cc.cd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Lead_Engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-b-a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Lead_Engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/RootNode-Rebels)
 [![Portfolio](https://img.shields.io/badge/Portfolio-adhi.is--a.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adhi.is-a.dev)
 
 <br>
