@@ -50,7 +50,7 @@ We bridge the gap between complex architectural theory and production-ready ente
 We actively develop open-source utilities and private enterprise applications. We welcome pull requests, technical discussions, and collaborations from engineers worldwide.
 
 - 📧 **Technical & Business Inquiries:** contact@rootnode-rebels.cc.cd
-- 🔗 **Network with our team on LinkedIn:** [Adarsh B A](https://www.linkedin.com/in/adarsh-b-a)
+- 🔗 **Network with our team on LinkedIn:** [RootNode Rebels](https://www.linkedin.com/company/RootNode-Rebels)
 
 <br>
 <p align="center">
