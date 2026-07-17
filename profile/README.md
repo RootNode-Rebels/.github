@@ -1,58 +1,66 @@
-# ⚡ RootNode-Rebels
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=RootNode-Rebels&fontSize=70&fontAlignY=35&desc=Engineering%20Scalable%20Systems&descAlignY=55&descAlign=50&fontColor=ffffff" alt="RootNode-Rebels Banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:10B981&height=150&section=header&text=RootNode-Rebels&fontSize=60&fontAlignY=40&desc=Architecting%20the%20Future%20of%20Web%20Systems&descAlignY=65&descAlign=50&fontColor=ffffff" width="100%" />
 
-### 🚀 Organization Overview
-**RootNode-Rebels** is a collective of software engineers dedicated to building high-performance architectures, scalable ERP systems, and modern web applications. 
-
-We bridge the gap between complex architectural theory and production-ready enterprise software. Our engineering focus lies in automation, real-time data flow, and resilient system design.
-
----
-
-### 🧠 Core Architecture Principles
-1. **Scalability by Design:** We build systems that handle growth effortlessly, utilizing microservices and serverless architectures where appropriate.
-2. **Security First:** Strict adherence to modern security practices, including hardened APIs, Content Security Policies (CSP), and secure data pipelines.
-3. **Performance Optimization:** Leveraging Edge networking, WebGL, and Next.js to deliver sub-100ms load times globally.
-
----
-
-### 💻 Technology Ecosystem
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,c,cpp" alt="Primary Languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,aws,gcp,vercel,docker" alt="Infrastructure & DB" />
-</p>
-
----
-
-### 🏗️ Featured Engineering Initiatives
-
-*   🎓 **[Sri Basaveswara School ERP](https://github.com/RootNode-Rebels/sribasaveswaraschool)**
-    A comprehensive School Resource Planning system engineered to automate student data pipelines, streamline administrative workflows, and render real-time visual analytics dashboards. 
-*   🛒 **[Smart Trolley App](https://github.com/RootNode-Rebels/smarttrolleyapp)**
-    An innovative logistics and retail application built with TypeScript, focusing on streamlining inventory management and modernizing checkout experiences.
-*   🛡️ **[Ultimate Security Suite](https://github.com/developeradhi/ultimate-security-suite)** 
-    A Python-based infrastructure repository focusing on system hardening, cryptography, and network cybersecurity tooling.
-
----
-
-### 📈 Global Impact & Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Org Stats" />
-</p>
-
----
-
-### 🤝 Open Source & Collaboration
-We actively develop open-source utilities and private enterprise applications. We welcome pull requests, technical discussions, and collaborations from engineers worldwide.
-
-- 📧 **Technical & Business Inquiries:** contact@rootnode-rebels.cc.cd
-- 🔗 **Network with our team on LinkedIn:** [RootNode Rebels](https://www.linkedin.com/company/RootNode-Rebels)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=We+Build+Scalable+ERP+Systems;We+Engineer+Modern+Web+Apps;We+Write+Code+That+Commands+The+Root+Node)](https://git.io/typing-svg)
 
 <br>
-<p align="center">
-  <i>"Writing code that commands the root node."</i>
-</p>
+
+> *We are an elite collective of software engineers bridging the gap between theoretical computer science and production-ready enterprise architecture.*
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ ENGINEERING ARSENAL
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,c,cpp&perline=8" />
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,aws,gcp,docker,linux,vercel&perline=8" />
+
+</div>
+
+<br><br>
+
+### 🚀 OUR FLAGSHIP PROJECTS
+
+We don't just write code; we build production systems. Here are our top deployments:
+
+| 🎓 Sri Basaveswara School ERP | 🛒 Smart Trolley App | 🛡️ Ultimate Security Suite |
+| :---: | :---: | :---: |
+| <img src="https://cdn-icons-png.flaticon.com/512/3206/3206015.png" width="80" /> | <img src="https://cdn-icons-png.flaticon.com/512/1162/1162499.png" width="80" /> | <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="80" /> |
+| Automated student pipelines and real-time administrative analytics dashboards. | Next-gen logistics app streamlining inventory and retail checkout experiences. | System hardening, cryptography, and network cybersecurity tooling built in Python. |
+| [**View Source**](https://github.com/RootNode-Rebels/sribasaveswaraschool) | [**View Source**](https://github.com/RootNode-Rebels/smarttrolleyapp) | [**View Source**](https://github.com/developeradhi/ultimate-security-suite) |
+
+<br><br>
+
+<div align="center">
+
+### 📊 GLOBAL IMPACT
+
+<img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeradhi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="300" />
+
+</div>
+
+<br><br>
+
+---
+
+<div align="center">
+
+### 📡 SECURE A CONNECTION 
+
+We actively develop open-source utilities and private enterprise applications. We welcome pull requests and technical discussions from engineers worldwide.
+
+[![Email](https://img.shields.io/badge/Email-contact%40rootnode--rebels.cc.cd-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rootnode-rebels.cc.cd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Lead_Engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-b-a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adhi.is--a.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adhi.is-a.dev)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:10B981&height=10&section=footer" width="100%" />
+
+</div>
